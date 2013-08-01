@@ -2,7 +2,9 @@
 ## Building
 
 $git clone https://github.com/cristinatena/toxic.git
+
 $cd toxic
+
 $mvn clean install
 
 ## Execute
